@@ -1,7 +1,7 @@
 # DSSNet: Dual Stream Segmentation Networks
 
 <p align="center">
-  <img src="./doc/dssnet_architecture.png" alt="DSSNet Architecture" width="70%">
+  <img src="./doc/dssnet_architecture.png" alt="DSSNet Architecture" width="60%">
 </p>
 
 ## Overview
@@ -13,9 +13,8 @@ The datasets used in this study are publicly available:
 - **Paddy Field Indramayu dataset**: [https://www.zenodo.com/](https://www.zenodo.com/)  
 
 ## Pretrained Weights
-We provide pretrained weights for TerraSegNet models trained on multiple datasets:
-
-- [Pretrained Models](https://drive.google.com/drive/](https://drive.google.com/drive/folders/1VRIxd15jHAUe421hNSNV7YKZXpXhvUQi?usp=sharing)  
+We provide pretrained weights for DSSNet and baseline models:
+- [Pretrained Models](https://drive.google.com/drive/folders/1VRIxd15jHAUe421hNSNV7YKZXpXhvUQi?usp=sharing)  
 
 ## Getting Started
 ### Requirements
