@@ -1,7 +1,7 @@
 # DSSNet: Dual Stream Segmentation Networks
 
 <p align="center">
-  <img src="./doc/dssnet_architecture.png" alt="DSSNet Architecture" width="80%">
+  <img src="./doc/dssnet_architecture.png" alt="DSSNet Architecture" width="70%">
 </p>
 
 ## Overview
