@@ -15,7 +15,7 @@ The datasets used in this study are publicly available:
 ## Pretrained Weights
 We provide pretrained weights for TerraSegNet models trained on multiple datasets:
 
-- [Pretrained Models](https://drive.google.com/drive/)  
+- [Pretrained Models]([https://drive.google.com/drive/](https://drive.google.com/drive/folders/1VRIxd15jHAUe421hNSNV7YKZXpXhvUQi?usp=sharing))  
 
 ## Getting Started
 ### Requirements
