@@ -25,3 +25,19 @@ Clone the repository:
 ```bash
 git clone https://github.com/project4earth/DSSNet.git
 cd DSSNet
+```
+
+### Citation
+If you use DSSNet in your research, please cite:
+```bash
+@article{WIJAYA2026101895,
+title = {Lightweight dual-encoder deep learning integrating Sentinel-1 and Sentinel-2 for paddy field mapping},
+journal = {Remote Sensing Applications: Society and Environment},
+pages = {101895},
+year = {2026},
+issn = {2352-9385},
+doi = {https://doi.org/10.1016/j.rsase.2026.101895},
+url = {https://www.sciencedirect.com/science/article/pii/S2352938526000285},
+author = {Bagus Setyawan Wijaya and Rinaldi Munir and Nugraha Priya Utama}
+}
+```
